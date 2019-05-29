@@ -1,0 +1,6 @@
+2019-05-22 17:31:04,511 - INFO - TPCO.BACO.OrquestacionIntegration - [LogToFile] -  Inicio de la Aplicación - [] - [fe80::48b2:e592:d14f:3e6d%20;10.162.210.214;] 
+
+2019-05-22 18:26:44,441 - INFO - TPCO.BACO.OrquestacionIntegration - [LogToFile] -  Inicio de la Aplicación - [] - [fe80::48b2:e592:d14f:3e6d%20;10.162.210.214;] 
+
+2019-05-22 18:26:51,892 - INFO - TPCO.BACO.OrquestacionIntegration - [LogToFile] -  Ejecución de método GetInfoById(), dato de entrada:  - ["01234567890123456789"] - [fe80::48b2:e592:d14f:3e6d%20;10.162.210.214;] 
+
